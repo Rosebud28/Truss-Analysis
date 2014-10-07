@@ -1,4 +1,4 @@
-/*
+
 import javax.swing.JFrame;
 
 public class TrussPanelDriver
@@ -12,4 +12,3 @@ public class TrussPanelDriver
     frame.setVisible(true);
   }
 }
-*/
